@@ -1,0 +1,16 @@
+{
+  "frontendFolder": "C:/Users/Joao.IV/Desktop/Recursos/Nova/ArquivosDeOutrasMaquinas/my-todo/frontend",
+  "themeFolder": "themes",
+  "themeResourceFolder": "C:/Users/Joao.IV/Desktop/Recursos/Nova/ArquivosDeOutrasMaquinas/my-todo/frontend/generated/jar-resources",
+  "staticOutput": "C:/Users/Joao.IV/Desktop/Recursos/Nova/ArquivosDeOutrasMaquinas/my-todo/target/classes/META-INF/VAADIN/webapp/VAADIN/static",
+  "generatedFolder": "generated",
+  "statsOutput": "C:\\Users\\Joao.IV\\Desktop\\Recursos\\Nova\\ArquivosDeOutrasMaquinas\\my-todo\\target\\classes\\META-INF\\VAADIN\\config",
+  "frontendBundleOutput": "C:\\Users\\Joao.IV\\Desktop\\Recursos\\Nova\\ArquivosDeOutrasMaquinas\\my-todo\\target\\classes\\META-INF\\VAADIN\\webapp",
+  "jarResourcesFolder": "C:/Users/Joao.IV/Desktop/Recursos/Nova/ArquivosDeOutrasMaquinas/my-todo/frontend/generated/jar-resources",
+  "generatedFlowImportsFolder": "target/frontend",
+  "themeName": "mytodo",
+  "clientServiceWorkerSource": "C:\\Users\\Joao.IV\\Desktop\\Recursos\\Nova\\ArquivosDeOutrasMaquinas\\my-todo\\target\\sw.ts",
+  "pwaEnabled": false,
+  "offlineEnabled": false,
+  "offlinePath": "'offline.html'"
+}
